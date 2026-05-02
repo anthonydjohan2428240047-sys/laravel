@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    @vite([])
-</head>
-<body>
-    <h1>Welcome Belajar Laravbvbbbbel</h1>
-</body>
-</html>
+<x-layout>
+    <h1>Belajar Basic laravel</h1>
+    <a href="/fakultas"> List Fakultas </a>
+    <a href="/edit"> Edit Fakultas </a>
+    <a href="/detail"> Detail Fakultas </a>
+</x-layout>
